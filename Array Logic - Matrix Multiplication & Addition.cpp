@@ -19,16 +19,6 @@ class matrix
     int rows1, cols1, rows2, cols2, element;
     int array1[10][10], array2[10][10], result[10][10];
     
-//    void display(array, int rows, int cols)
-//    {
-//        for(int r=0; r<rows; r++)
-//        {
-//            for(int c=0; c<cols; c++)
-//            {
-//                cout<<array[r][c];
-//            }
-//        }
-//    }
     
 public:
     
